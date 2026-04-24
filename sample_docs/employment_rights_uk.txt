@@ -1,0 +1,170 @@
+UK EMPLOYMENT RIGHTS – SUMMARY GUIDE
+
+OVERVIEW
+Employment rights in the UK are primarily governed by the Employment Rights Act 1996, the Equality Act 2010, and various other statutes. This guide summarises key rights for employees and workers in England, Scotland and Wales.
+
+---
+
+EMPLOYMENT STATUS
+
+Your rights depend on your employment status:
+
+EMPLOYEE
+An employee works under a contract of employment. Employees have the full range of employment rights including unfair dismissal protection, redundancy pay, and statutory maternity/paternity leave.
+
+WORKER
+Workers include those on casual, zero-hours, or agency contracts. Workers have fewer rights than employees but are entitled to: National Minimum Wage, paid holiday (5.6 weeks per year), protection from unlawful wage deductions, rest breaks, and protection from discrimination.
+
+SELF-EMPLOYED
+Self-employed individuals generally have no employment rights, though they may have some protections if they are in practice treated as workers (e.g. gig economy workers).
+
+---
+
+NATIONAL MINIMUM WAGE (2024 RATES)
+
+- Age 21 and over (National Living Wage): £11.44 per hour
+- Age 18–20: £8.60 per hour
+- Under 18: £6.40 per hour
+- Apprentices (under 19 or in first year): £6.40 per hour
+
+---
+
+WORKING HOURS
+
+Under the Working Time Regulations 1998:
+- Maximum 48 hours per week (averaged over 17 weeks) – workers can opt out in writing
+- Rest break: 20 minutes for shifts over 6 hours
+- Daily rest: 11 consecutive hours between working days
+- Weekly rest: 24 hours uninterrupted rest per week (or 48 hours per fortnight)
+- Night workers: no more than 8 hours per night on average
+
+---
+
+HOLIDAY ENTITLEMENT
+
+All workers are entitled to 5.6 weeks of paid holiday per year (28 days for full-time workers). This includes bank holidays. Part-time workers receive a pro-rata entitlement.
+
+---
+
+SICK PAY
+
+STATUTORY SICK PAY (SSP)
+Employees who are too ill to work for 4 or more consecutive days are entitled to SSP of £116.75 per week (2024) for up to 28 weeks. To qualify, you must earn at least £123 per week (the Lower Earnings Limit).
+
+Many employers offer contractual sick pay above SSP – check your employment contract.
+
+---
+
+MATERNITY, PATERNITY AND PARENTAL LEAVE
+
+MATERNITY LEAVE
+All pregnant employees are entitled to 52 weeks of maternity leave (26 weeks ordinary + 26 weeks additional), regardless of length of service or hours worked.
+
+STATUTORY MATERNITY PAY (SMP)
+- First 6 weeks: 90% of average weekly earnings
+- Remaining 33 weeks: £184.03 per week or 90% of earnings (whichever is lower)
+- You must have worked for your employer for 26 weeks by the 15th week before your due date
+
+PATERNITY LEAVE
+Fathers and partners can take 1 or 2 weeks of paid paternity leave. Statutory Paternity Pay is £184.03 per week or 90% of earnings (whichever is lower).
+
+SHARED PARENTAL LEAVE
+Eligible parents can share up to 50 weeks of leave and up to 37 weeks of pay between them.
+
+PARENTAL LEAVE
+Employees with at least 1 year's service can take up to 18 weeks of unpaid parental leave per child, up to the child's 18th birthday.
+
+---
+
+UNFAIR DISMISSAL
+
+To claim unfair dismissal, you generally need 2 years of continuous employment with your employer (with some exceptions for automatically unfair reasons).
+
+FAIR REASONS FOR DISMISSAL
+An employer must have a fair reason for dismissal, including:
+- Capability or qualifications
+- Conduct
+- Redundancy
+- Statutory restriction
+- Some other substantial reason
+
+The employer must also follow a fair procedure (including investigation, warnings, and the right to be accompanied at disciplinary hearings).
+
+AUTOMATICALLY UNFAIR DISMISSAL
+Some dismissals are automatically unfair regardless of length of service:
+- Whistleblowing (making a protected disclosure)
+- Pregnancy or maternity
+- Exercising statutory rights (e.g. requesting flexible working)
+- Trade union membership or activities
+- Health and safety activities
+- Jury service
+
+COMPENSATION
+The basic award is calculated using a formula based on age, weekly pay, and length of service (capped at £643 per week as of 2024). A compensatory award can also be made for financial loss, subject to a cap of £115,115 or 52 weeks' pay (whichever is lower).
+
+---
+
+REDUNDANCY
+
+QUALIFYING FOR REDUNDANCY PAY
+You must have at least 2 years of continuous employment to qualify for statutory redundancy pay.
+
+CALCULATION
+- 0.5 week's pay for each full year worked under age 22
+- 1 week's pay for each full year worked between ages 22–40
+- 1.5 weeks' pay for each full year worked aged 41 or over
+Weekly pay is capped at £643 (2024). Maximum service counted is 20 years.
+
+COLLECTIVE REDUNDANCY
+If 20 or more employees are made redundant within 90 days at one establishment, the employer must consult with employee representatives and notify the government (HR1 form) at least 30 days in advance (45 days if 100+ redundancies).
+
+---
+
+DISCRIMINATION
+
+The Equality Act 2010 protects employees and workers from discrimination based on:
+- Age
+- Disability
+- Gender reassignment
+- Marriage and civil partnership
+- Pregnancy and maternity
+- Race (including colour, nationality, ethnic or national origin)
+- Religion or belief
+- Sex
+- Sexual orientation
+
+TYPES OF DISCRIMINATION
+- Direct discrimination: treating someone less favourably because of a protected characteristic
+- Indirect discrimination: applying a policy that disadvantages people with a protected characteristic
+- Harassment: unwanted conduct related to a protected characteristic
+- Victimisation: treating someone badly because they made or supported a discrimination complaint
+
+---
+
+WHISTLEBLOWING
+
+Workers who make a "protected disclosure" about wrongdoing (criminal activity, danger to health and safety, environmental damage, miscarriage of justice, or covering up any of these) are protected from dismissal and detriment. There is no qualifying period of employment for whistleblowing protection.
+
+---
+
+GRIEVANCE AND DISCIPLINARY PROCEDURES
+
+Employers must follow the ACAS Code of Practice on Disciplinary and Grievance Procedures. Failure to follow the Code can result in an employment tribunal increasing any award by up to 25%.
+
+Employees have the right to be accompanied by a trade union representative or colleague at formal disciplinary or grievance hearings.
+
+---
+
+EMPLOYMENT TRIBUNALS
+
+Employment tribunal claims must generally be brought within 3 months (minus 1 day) of the act complained of. Before making a claim, you must notify ACAS (Early Conciliation), which pauses the time limit. ACAS will attempt to resolve the dispute before tribunal proceedings begin.
+
+There is no fee to bring an employment tribunal claim.
+
+---
+
+FURTHER INFORMATION
+
+ACAS (Advisory, Conciliation and Arbitration Service): www.acas.org.uk | Helpline: 0300 123 1100
+GOV.UK Employment Rights: www.gov.uk/browse/working
+Citizens Advice Employment: www.citizensadvice.org.uk/work

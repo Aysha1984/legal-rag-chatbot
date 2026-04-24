@@ -1,0 +1,128 @@
+UK HOUSING RIGHTS AND TENANTS' GUIDE
+
+OVERVIEW
+This guide covers the key rights of tenants renting privately in England. Different rules apply in Scotland, Wales and Northern Ireland.
+
+---
+
+TYPES OF TENANCY
+
+ASSURED SHORTHOLD TENANCY (AST)
+The most common type of private tenancy. If you rent from a private landlord and moved in after 1997, you almost certainly have an AST. Your tenancy can be fixed-term (e.g. 6 or 12 months) or periodic (rolling week-to-week or month-to-month).
+
+ASSURED TENANCY
+Gives greater security than an AST. The landlord can only end the tenancy on specific grounds.
+
+REGULATED TENANCY
+Older type of tenancy (pre-1989). Gives the strongest protection including a fair rent set by the Rent Officer.
+
+---
+
+TENANCY DEPOSITS
+
+DEPOSIT PROTECTION
+Since April 2007, landlords must protect your deposit in a government-approved tenancy deposit scheme within 30 days of receiving it. The three approved schemes are:
+- Deposit Protection Service (DPS)
+- MyDeposits
+- Tenancy Deposit Scheme (TDS)
+
+Your landlord must give you the "prescribed information" about which scheme protects your deposit.
+
+DEPOSIT CAPS
+Since June 2019, deposits are capped at 5 weeks' rent (or 6 weeks' if annual rent is £50,000 or more).
+
+IF YOUR DEPOSIT IS NOT PROTECTED
+You can apply to court for the return of your deposit plus a penalty of 1–3 times the deposit amount. Unprotected deposits also prevent landlords from using a Section 21 notice to evict you.
+
+---
+
+RENT
+
+RENT INCREASES
+For a fixed-term AST, rent can only be increased if the tenancy agreement allows it or you agree to an increase. For periodic tenancies, landlords must use a Section 13 notice (usually giving 1 month's notice for monthly tenancies). You can challenge a proposed increase at the First-tier Tribunal (Property Chamber).
+
+RENT ARREARS
+If you fall behind on rent, your landlord may seek possession through the courts. It is important to communicate with your landlord and seek advice from Citizens Advice or a housing charity as early as possible.
+
+---
+
+REPAIRS AND MAINTENANCE
+
+Landlords are legally responsible for:
+- The structure and exterior of the property (roof, walls, windows, doors)
+- Heating and hot water systems
+- Plumbing and drains
+- Gas appliances, pipes, flues and ventilation
+- Electrical wiring
+- Common areas in blocks of flats
+
+The Landlord and Tenant Act 1985 (Section 11) sets out these obligations for tenancies shorter than 7 years.
+
+REPORTING REPAIRS
+You should report repairs to your landlord in writing (email is acceptable) and keep a copy. Give your landlord a reasonable time to carry out repairs.
+
+RETALIATORY EVICTION
+Since 2015 (Deregulation Act 2015), landlords cannot serve a valid Section 21 notice after you have reported a repair in writing, if the local council has served an Improvement Notice or Emergency Remedial Action Notice.
+
+HAZARDS
+If your property has serious hazards (e.g. damp and mould, excess cold, electrical hazards, fire risks), you can report these to your local council's Environmental Health department. The council can use the Housing Health and Safety Rating System (HHSRS) to inspect and require the landlord to carry out repairs.
+
+---
+
+EVICTION
+
+SECTION 21 NOTICE (NO-FAULT EVICTION)
+A Section 21 notice can be used to end an AST without giving any reason. Requirements:
+- Must give at least 2 months' notice
+- Cannot be used in the first 4 months of the tenancy
+- The form must be correct (Form 6A)
+- Your deposit must be protected
+- You must have received the property's Energy Performance Certificate, Gas Safety Certificate, and the government's How to Rent guide
+
+Note: The Renters (Reform) Bill (2024) proposes to abolish Section 21 – check for the latest updates.
+
+SECTION 8 NOTICE (FAULT-BASED EVICTION)
+A Section 8 notice is used when a tenant has breached the tenancy agreement (most commonly rent arrears). The notice period depends on which grounds are used. Mandatory grounds (e.g. 2+ months' rent arrears) mean the court must grant possession. Discretionary grounds mean the court considers whether it is reasonable to do so.
+
+EVICTION PROCESS
+A landlord cannot evict you without a court order. If you receive a valid eviction notice, the landlord must apply to court for a possession order, then apply for a warrant of possession, before bailiffs can remove you. It is illegal for a landlord to change the locks, remove your belongings, or harass you to leave – this is unlawful eviction.
+
+---
+
+ILLEGAL EVICTION AND HARASSMENT
+
+It is a criminal offence for a landlord to:
+- Unlawfully deprive you of occupation of your home
+- Use or threaten violence to secure entry
+- Interfere with your peace or comfort (harassment)
+
+If this happens, contact your local council's tenancy relations officer, the police (in cases of violence or threats), or a housing solicitor. You may be entitled to damages.
+
+---
+
+HOUSES IN MULTIPLE OCCUPATION (HMO)
+
+If you share a property with 5 or more people from 2 or more households, it may be a licensable HMO. The landlord must have a licence from the local council. HMOs have additional safety requirements including fire safety measures, adequate kitchen and bathroom facilities, and minimum room sizes.
+
+---
+
+HELP FOR TENANTS
+
+LOCAL AUTHORITY HOUSING
+If you are homeless or at risk of homelessness, contact your local council's housing department. The Homelessness Reduction Act 2017 requires councils to help prevent homelessness for anyone threatened with losing their home within 56 days.
+
+LEGAL AID FOR HOUSING
+Legal aid may be available for serious housing issues, including:
+- Defending eviction proceedings where you are at risk of homelessness
+- Serious disrepair affecting health
+- Unlawful eviction
+- Harassment by landlords
+
+---
+
+USEFUL CONTACTS
+
+Shelter (housing charity): www.shelter.org.uk | Helpline: 0808 800 4444
+Citizens Advice: www.citizensadvice.org.uk
+GOV.UK – Private Renting: www.gov.uk/private-renting
+First-tier Tribunal (Property Chamber): www.gov.uk/courts-tribunals/first-tier-tribunal-property-chamber

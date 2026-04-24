@@ -1,0 +1,125 @@
+LEGAL AID IN ENGLAND AND WALES – ELIGIBILITY GUIDE
+
+OVERVIEW
+Legal aid is government funding that helps people who cannot afford to pay for legal advice, family mediation or representation in court. It is administered by the Legal Aid Agency (LAA), an executive agency of the Ministry of Justice.
+
+Not everyone qualifies for legal aid. Eligibility depends on:
+1. The type of legal problem you have (the "scope" test)
+2. Whether your case has merit (the "merits" test)
+3. Whether you can afford to pay for legal help yourself (the "means" test)
+
+---
+
+SCOPE: WHAT LEGAL AID COVERS
+
+Legal aid is available for the following types of cases:
+
+CIVIL LEGAL AID
+- Family law: domestic abuse, forced marriage, child abduction, care proceedings
+- Housing: eviction, homelessness, serious disrepair, anti-social behaviour injunctions
+- Debt: when someone is at risk of losing their home
+- Mental health: detention under the Mental Health Act
+- Immigration: asylum cases, immigration detention, domestic violence cases
+- Community care: disputes about care needs for disabled or elderly people
+- Clinical negligence: cases involving a neurological injury to a baby at or around birth
+- Public law: judicial review of government decisions
+
+CRIMINAL LEGAL AID
+- Advice and assistance at a police station (free, regardless of income)
+- Magistrates' court representation
+- Crown Court representation
+- Appeals
+
+Legal aid is NOT generally available for:
+- Personal injury (except clinical negligence as above)
+- Conveyancing (buying/selling property)
+- Making a will
+- Boundary disputes
+- Employment disputes (some exceptions apply)
+- Business disputes
+- Most cases where alternative funding (e.g. no-win-no-fee) is available
+
+---
+
+THE MEANS TEST
+
+To qualify for civil legal aid, your finances must fall below certain thresholds.
+
+GROSS INCOME TEST
+Your gross monthly income (before tax and National Insurance) must be below £2,657 per month (as of 2024). If you receive certain benefits (Income Support, Universal Credit, Income-based JSA, Income-related ESA, Guarantee Credit), you automatically pass the gross income test.
+
+DISPOSABLE INCOME TEST
+After allowances for tax, National Insurance, housing costs, and dependants, your disposable monthly income must be below £733 per month.
+
+DISPOSABLE CAPITAL TEST
+Your capital assets (savings, investments, valuable property) must be below £8,000. Your main home is usually disregarded, as are tools of trade, personal items, and the value of a business.
+
+PASSPORTING BENEFITS
+If you or your partner receive any of these benefits, you automatically pass the means test for most civil legal aid:
+- Income Support
+- Universal Credit (with no earned income)
+- Income-based Jobseeker's Allowance
+- Income-related Employment and Support Allowance
+- Guarantee Credit element of Pension Credit
+
+CRIMINAL LEGAL AID – MEANS TEST
+For the Magistrates' Court, your annual household disposable income must be below £12,475 to qualify for free legal aid. Above this threshold you may be refused or required to contribute. For the Crown Court, a financial eligibility assessment is carried out; you may be required to contribute from income and/or capital.
+
+---
+
+THE MERITS TEST
+
+For civil legal aid, the Legal Aid Agency assesses whether your case is worth funding. This involves:
+
+PROSPECTS OF SUCCESS
+- Very good: 80%+ chance of success
+- Good: 60–80% chance
+- Moderate: 50–60% chance (may still qualify in some cases)
+- Borderline or poor: below 50% (generally refused)
+
+COST-BENEFIT ANALYSIS
+The likely cost of the legal proceedings must be proportionate to the likely benefit. The LAA will not fund cases where the costs clearly outweigh any benefit to the client.
+
+PRIVATE FUNDING
+Legal aid will not be granted if you could reasonably obtain private funding (e.g. a conditional fee agreement / no-win-no-fee arrangement).
+
+---
+
+HOW TO APPLY FOR LEGAL AID
+
+Step 1: Find a legal aid provider
+Not all solicitors offer legal aid. You must use a solicitor or law centre with a legal aid contract for the relevant category of law. You can search for a provider using the GOV.UK Find a Legal Aid Adviser tool.
+
+Step 2: Initial assessment
+Your solicitor will assess whether you are likely to qualify on scope, merits, and means. They will ask for financial documents including payslips, bank statements, benefit letters, and information about capital assets.
+
+Step 3: Application
+Your solicitor submits an application to the Legal Aid Agency on your behalf. For some types of help (Legal Help), the solicitor can grant this immediately without LAA approval. For more complex cases (Licensed Work), LAA approval is required.
+
+Step 4: Decision
+The LAA will issue a funding certificate if the application is approved. This sets out what work is covered and any contributions required.
+
+---
+
+CONTRIBUTIONS
+
+You may be required to make contributions towards your legal aid costs from:
+- Income: monthly contributions over the life of the case
+- Capital: a lump sum contribution if your capital exceeds certain thresholds
+
+If you win your case, you may recover costs from the other party. The statutory charge may also apply: if you keep or gain money or property as a result of your case, the LAA may recover its costs from those proceeds.
+
+---
+
+EMERGENCY LEGAL AID
+
+In urgent situations (e.g. imminent domestic abuse, emergency injunctions), legal aid can be granted on an emergency basis. Emergency certificates can be issued by solicitors immediately and ratified by the LAA within a short timeframe.
+
+---
+
+CONTACT AND FURTHER INFORMATION
+
+Legal Aid Agency: www.gov.uk/legal-aid
+Civil Legal Advice helpline: 0345 345 4 345
+Citizens Advice: www.citizensadvice.org.uk
+Law Centres Network: www.lawcentres.org.uk
